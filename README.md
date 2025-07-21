@@ -5,6 +5,7 @@
 </a>
 
 a/b test using kaggle marketing data
+psa is control group, and ad is treatment group. Group split is extremely unbalanced (560k vs 20k) which leads to weaker statistical power. However unbalanced splits are favored when treatment is favored.
 
 ## Project Organization
 
